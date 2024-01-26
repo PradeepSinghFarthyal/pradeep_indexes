@@ -67,7 +67,7 @@ or
 		1. Upload - Click on indexes, after that, you get the upload CSV file option click on it and upload the file. If the file is not uploaded successfully it will redirect you to some other URL(for now it's some other web page URL)
 		![Alt text](image.png)
 		2. Download - Go to inside Indexes. Select files whatever you want to download. And inside action select 'Export selected item to CSV' and hit on Go . And file will start downloading
-		![Alt text](image-1.png)
+		![Alt text]([image-1.png](https://github.com/PradeepSinghFarthyal/pradeep_indexes/blob/main/image-1.png))
 		
 		
 	
