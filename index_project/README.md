@@ -45,7 +45,11 @@ or
 
 >https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
 
-  
+## Setup Database
+Currently i'm using sql data base
+so first we have to crate table and update DB redentials.
+
+
 ## Create DB Tables:
 
 >`python manage.py makemigrations`
