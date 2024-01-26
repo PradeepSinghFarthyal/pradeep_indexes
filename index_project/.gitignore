@@ -1,0 +1,6 @@
+.idea/
+index_project/__pycache__
+
+indexapp/__pycache__
+indexapp/management/__pycache__
+indexapp/commands/__pycache__
