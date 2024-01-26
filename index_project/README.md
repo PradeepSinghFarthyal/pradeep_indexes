@@ -49,7 +49,8 @@ Currently i'm using sql data base
 so first we have to crate table and update DB redentials.
 
 
-## Create DB Tables:
+## Setupp and Create DB Tables:
+Currently i'm using sql database, so you have to update DB settings 
 
 >`python manage.py makemigrations`
 > 
@@ -62,3 +63,9 @@ so first we have to crate table and update DB redentials.
 >OR
 > 
 >`python manage.py runserver host:port`
+
+## load data from django admin
+>`python managee.py <file name>`
+>
+>`python managee.py <load_data>`
+
