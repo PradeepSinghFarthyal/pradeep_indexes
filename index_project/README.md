@@ -28,7 +28,6 @@ or
 > 
 >`pip install -r requirements.txt`
 > 
->`pip install --upgrade google-cloud-documentai`
 
 
 ## Check if any grc or grpcio issue occur
